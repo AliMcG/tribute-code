@@ -1,88 +1,87 @@
 html {
-    font-size: 10px;
-  }
+  font-size: 10px;
+}
   
-  ul {
-    max-width: 550px;
-    margin: 0 auto 50px auto;
-    text-align: left;
-    line-height: 1.6;
-  }
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
   
-  li {
-    margin: 16px 0;
-  }
+li {
+  margin: 16px 0;
+}
   
-  #main {
-    margin: 8px 8px;
-    padding: 15px;
-    border-radius: 5px;
-    background: #ADD8E6;
-  }
+#main {
+  margin: 8px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #ADD8E6;
+}
   
-  body {
-    /* Native font stack https://getbootstrap.com/docs/4.2/content/reboot/#native-font-stack */
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
-      'Helvetica Neue', Arial, sans-serif;
-    font-size: 1.6rem;
-    line-height: 1.5;
-    text-align: center;
-    color: #333;
-    margin: 0;
-  }
+body {
+  /* Native font stack https://getbootstrap.com/docs/4.2/content/reboot/#native-font-stack */
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+  'Helvetica Neue', Arial, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+  margin: 0;
+}
   
-  blockquote {
-    font-style: italic;
-    max-width: 545px;
-    margin: 0 auto 50px auto;
-    text-align: left;
-  }
+blockquote {
+  font-style: italic;
+  max-width: 545px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
   
-  p {
-    max-width: 545px;
-    margin: 0 auto 50px auto;
-    text-align: left;
-  }
+p {
+  max-width: 545px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
   
-  img {
-    max-width: 100%;
-    display: block;
-    height: auto;
-    margin: 0 auto;
-  }
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+ 
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
   
-  #img-div {
-    background: white;
-    padding: 10px;
-    margin: 0;
-  }
+#img-caption {
+  margin: 15px 0 5px 0;
+}
   
+@media (max-width: 460px) {
   #img-caption {
-    margin: 15px 0 5px 0;
+    font-size: 1.4rem;
   }
+}
+
+.embed-youtube {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+}
   
-  @media (max-width: 460px) {
-    #img-caption {
-      font-size: 1.4rem;
-    }
-  }
-  .embed-youtube {
-      position: relative;
-      padding-bottom: 56.25%; /* - 16:9 aspect ratio (most common) */
-      /* padding-bottom: 62.5%; - 16:10 aspect ratio */
-      /* padding-bottom: 75%; - 4:3 aspect ratio */
-      padding-top: 30px;
-      height: 0;
-      overflow: hidden;
-  }
-  
-  .embed-youtube iframe,
-  .embed-youtube object,
-  .embed-youtube embed {
-      border: 0;
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-  }
+.embed-youtube iframe,
+.embed-youtube object,
+.embed-youtube embed {
+  border: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
