@@ -1,6 +1,6 @@
-# README - Learning Journey step 7
+# Tribute Page (HTML, CSS and Git practice)
 
-## 7.2 - Your Tribute Page
+## This tribute page was completed as part of the pre-course taska before starting on the School of Code bootcamp. [School of Code](https://www.schoolofcode.co.uk/)
 
 You will now be using git and vscode to:
 
