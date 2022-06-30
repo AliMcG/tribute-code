@@ -1,6 +1,6 @@
 # Tribute Page (HTML, CSS and Git practice)
 
-## This tribute page was completed as part of the pre-course taska before starting on the School of Code bootcamp. [School of Code](https://www.schoolofcode.co.uk/)
+## This tribute page was completed as part of the pre-course taska before starting on the [School of Code](https://www.schoolofcode.co.uk/) bootcamp in April 2022.
 
 You will now be using git and vscode to:
 
