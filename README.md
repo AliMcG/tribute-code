@@ -1,17 +1,17 @@
 # Tribute Page (HTML, CSS and Git practice)
 
-## This tribute page was completed as part of the pre-course taska before starting on the [School of Code](https://www.schoolofcode.co.uk/) bootcamp in April 2022.
+## This tribute page was completed as part of the pre-course tasks before starting on the [School of Code](https://www.schoolofcode.co.uk/) bootcamp in April 2022.
 
-You will now be using git and vscode to:
+This task was a introduction to using Git and VScode to:
 
-  * _clone_ your repository to your local machine (use the HTTPS link)
+  * _clone_ your repository,  _update_ the sample HTML and CSS files and _add, commit and push_ your changes to the new repository.
 
-  * _update_ the sample HTML and CSS files with your own code (from CodePen) 
+  *with your own code (from CodePen) 
 
-  * _add, commit and push_ your changes to your brand new repository. Pretty cool eh?
+  * . Pretty cool eh?
 
 <details>
-  <summary>Super Secret Hint</summary>
+  <summary>Super Secret (Do Not Click!)</summary>
   All of these steps have been covered in step 6 of your *learning journey* if you need any clues as to what to do maybe think about looking back at these resources 🤷
  
  Link to instructions on cloning:https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
